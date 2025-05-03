@@ -1,0 +1,13 @@
+{
+  "modEnabled": true,
+  "isDebug": true,
+  "isServer": false,
+  "isClient": true,
+  "enableForRepairAndUpgrade": true,
+  "partyEnabled": false,
+  "lockable": false,
+  "anyCrate": true,
+  "disableNotifications": false,
+  "landClaimWithLock": false,
+  "range": 100
+}
