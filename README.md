@@ -5,3 +5,13 @@ I am not taking credit for this mod. The ModFile.xml states the author is llmonm
 I don't want credit for it. I just want to provide a patch.
 
 Please don't sue me or come to my house.
+
+
+## Install
+Drop it in your mods folder. Check the config.json to tweak the settings.
+
+
+## Check Out My Other Mod...
+
+An alternative to the death penalty.
+https://github.com/FoxFlicker/7d2d-soul-destruction
